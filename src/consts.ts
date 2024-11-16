@@ -33,12 +33,12 @@ export const SOCIALS: Socials = [
 //    NAME: "twitter-x",
 //    HREF: "https://twitter.com/markhorn_dev",
 //  },
-//  { 
-//    NAME: "github",
-//    HREF: "https://github.com/jawadakhan97"
-//  },
-//  { 
-//    NAME: "linkedin",
-//    HREF: "https://www.linkedin.com/in/jakhan97",
-//  }
-//];
+  { 
+    NAME: "github",
+    HREF: "https://github.com/jawadakhan97"
+  },
+  { 
+    NAME: "linkedin",
+    HREF: "https://www.linkedin.com/in/jakhan97",
+  }
+];
