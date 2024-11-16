@@ -1,9 +1,12 @@
 ---
-company: "McDonalds"
-role: "French Fryer"
-dateStart: "03/16/2018"
-dateEnd: "07/01/2019"
-draft: true
+company: "Mountain Equipment Company"
+role: "Retail Sales Associate"
+dateStart: "01/08/2022"
+dateEnd: "01/04/2023"
 ---
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum.
+- Provided personalized recommendations on equipment for customers upcoming outdoor adventures
+- Engaged with prospective & current customers in stores and by phone, seeking to understand their needs by asking
+open-ended questions and answering product questions in detail
+- Assisted with point-of-sale purchases and inventory checks using retail management software
+- Worked with team spirit and an open mindset of continuously learning to meet anticipated needs of customers
