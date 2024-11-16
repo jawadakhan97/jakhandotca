@@ -1,11 +1,13 @@
 ---
-title: "Astro Nano"
-description: "Minimal portfolio and blog build with astro and no frameworks."
-date: "Mar 26 2024"
+title: "Digital Portfolio"
+description: "A minimal portfolio and blog build with astro and no frameworks."
+date: "Nov 16 2024"
 demoURL: "https://astro-nano-demo.vercel.app"
 repoURL: "https://github.com/markhorn-dev/astro-nano"
-draft: true
+draft: false
 ---
+
+> Note: Below are the details from the source repository
 
 ![Astro Nano](/astro-nano.png)
 
