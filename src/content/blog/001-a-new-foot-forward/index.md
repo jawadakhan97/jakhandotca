@@ -26,21 +26,21 @@ Physics is the study of nature, I am prepared by our ancestors in an obscure way
 
 *I decided to make it a footnote in part because I am unsatisfied with the simple structure and rhyme. This is unfortunate but a better alternative to hiding it in my notes as I often do with my collected works.*
  
-A7 A7 B6 B(3)A7 B6 \
+A7 A7 B6 B(3)A7 B6
 > For a time there was struggle | 7 \
 > I had hoped all the trouble | 7 \
 > Might cast itself away | 6 \
 > But I stayed in a bubble | 7 \
-> Isolated and gray | 6 \
+> Isolated and gray | 6
 
 > To continue to deny \
 > The everlasting kind, he \
 > Forgot where he came from \
 > Hoping some day, finally \
-> Poppy fields could sprout, stay \
+> Poppy fields could sprout, stay
 
 > The Arabian blunder \
 > Al guhl maintained the wonder \
 > Ignore the sedation \
 > I can't run any further \
-> No more time, no more fun \
+> No more time, no more fun
