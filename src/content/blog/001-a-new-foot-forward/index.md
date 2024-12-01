@@ -8,6 +8,8 @@ draft: false
 > A mathematician, like a painter or poet, is a maker of patterns. If his patterns are more permanent than theirs, it is because they are made with ideas.
 > - G. H. Hardy
 
+---
+
 I had the notion early in life to be a physicist. My appreciation for the concepts of mathematics remain though my interests have changed. They have given me an opportunity to express clearly the foundations of my experience. What I love about poetry could be summed up by the discovery of reading a poem by oneself or another.
 
 Like a puzzle, working out the bits of sound or scanning over the text, the closer I get to a finished picture brings excitement. The joy of completion is a great motivator. What is better I think is the cusp of uncertainty. Close to the end of a story there is at times a reversal. The villain gets the upper hand, the protagonist blunders, et cetera. The contrast puts an outline on the text, or in this case the painting. Where the boundaries were unclear, now focus can clearly demarcate between what is on one side of a line and what is on the other. This makes the image make sense. I am confused when I am given a work of art without context. My limited knowledge of the arts and desire for appreciation of artists necessarily means I am often confused. This is okay, I have learned to manage my expectations.
