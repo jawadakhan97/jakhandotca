@@ -1,7 +1,7 @@
 ---
 title: "Selected Sketches"
 description: "A showcase of literary and imaginative visual work."
-date: 2025-01-08
+date: "Jan 8 2025"
 author: "Jawad A. Khan"
 draft: false
 ---
