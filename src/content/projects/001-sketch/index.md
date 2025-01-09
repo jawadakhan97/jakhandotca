@@ -8,11 +8,21 @@ draft: false
 
 I drew the following sketches during a low period of time around 2017. I used an Ohto ProMecha 0.9 mm mechanical pencil with HB graphite which I purchased in San Francisco, CA and a white eraser on B5 Muji notebook paper. I had great difficulty drawing straight lines and curves. To remedy this and match the image on the paper with the one in my head, I extensively erased and redrew until I approached a satisfactory similarity. This was time consuming and very annoying. I have taken a break from this kind of drawing for the time being and this is the first time I am sharing it openly.
 
-SKETCH 1
+SKETCH A
+![SKETCH A](/SKETCH A.jpg)
 
-SKETCH 2
+SKETCH B
+![SKETCH B](/SKETCH B.jpg)
 
-SKETCH 3
+SKETCH C
+![SKETCH C](/SKETCH C.jpg)
 
-SKETCH 4
+SKETCH D
+![SKETCH D](/SKETCH D.jpg)
+
+SKETCH E
+![SKETCH E](/SKETCH E.jpg)
+
+SKETCH F
+![SKETCH F](/SKETCH F.jpg)
  
