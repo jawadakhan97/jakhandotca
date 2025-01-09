@@ -3,6 +3,7 @@ company: "Mountain Equipment Company"
 role: "Retail Sales Associate"
 dateStart: "01/08/2022"
 dateEnd: "01/04/2023"
+draft: true
 ---
 
 - Provided personalized recommendations on equipment for customers upcoming outdoor adventures
