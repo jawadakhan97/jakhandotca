@@ -39,7 +39,7 @@ const work = await Promise.all(
       <section>
         <article class="space-y-4">
           <p class="animate">
-            I am a technical, interdisciplinary, biology major at York University and I like to write in my free time.
+            I am a technical, interdisciplinary, biology major at York University and I like to write in my free time. I explore what a future fulfilled by social good might look like in my art.
             <!--I have a lighthouse scores of 100 across the board for performance, 
             accesibility, best practices and SEO.-->
           </p>
@@ -80,6 +80,24 @@ const work = await Promise.all(
       <section class="animate space-y-6">
         <div class="flex flex-wrap gap-y-2 items-center justify-between">
           <h5 class="font-semibold text-black dark:text-white">
+            Recent projects
+          </h5>
+          <Link href="/projects">
+            See all projects
+          </Link>
+        </div>
+        <ul class="flex flex-col gap-4">
+          {projects.map(project => (
+            <li>
+              <ArrowCard entry={project} />
+            </li>
+          ))}
+        </ul>
+      </section>
+      
+      <section class="animate space-y-6">
+        <div class="flex flex-wrap gap-y-2 items-center justify-between">
+          <h5 class="font-semibold text-black dark:text-white">
             Work Experience
           </h5>
           <Link href="/work">
@@ -106,32 +124,13 @@ const work = await Promise.all(
         </ul>
       </section>
 
-      <section class="animate space-y-6">
-        <div class="flex flex-wrap gap-y-2 items-center justify-between">
-          <h5 class="font-semibold text-black dark:text-white">
-            Recent projects
-          </h5>
-          <Link href="/projects">
-            See all projects
-          </Link>
-        </div>
-        <ul class="flex flex-col gap-4">
-          {projects.map(project => (
-            <li>
-              <ArrowCard entry={project} />
-            </li>
-          ))}
-        </ul>
-      </section>
-
       <section class="animate space-y-4">
         <h5 class="font-semibold text-black dark:text-white">
           Let's Connect
         </h5>
         <article>
           <p>
-            If you want to get in touch with me, ask a question or just to say hi,
-            reach out on social media or send me an email.
+            If you want to get in touch, ask a question or just say hi, reach out on social media or send me an email.
           </p>
         </article>
         <ul class="flex flex-wrap gap-2">
