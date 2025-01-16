@@ -5,6 +5,11 @@ date: "Nov 18 2024"
 draft: false
 ---
 
+<audio controls>
+  <source src="/a-new-foot-forward.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 > A mathematician, like a painter or poet, is a maker of patterns. If his patterns are more permanent than theirs, it is because they are made with ideas.
 > - G. H. Hardy
 
