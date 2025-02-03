@@ -6,7 +6,7 @@ draft: false
 ---
 
 <audio controls>
-  <source src="/a-new-foot-forward.mp3" type="audio/mpeg">
+  <source src="/audio/a-new-foot-forward.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 

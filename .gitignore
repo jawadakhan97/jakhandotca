@@ -21,3 +21,9 @@ pnpm-debug.log*
 # macOS-specific files
 .DS_Store
 jakhan-logo.afdesign
+
+# files
+qr-micro.png
+qr-micro.svg
+qr.png
+qr.svg
