@@ -55,15 +55,6 @@ article {
   }
 }
 
-.animate {
-  @apply opacity-0 translate-y-3;
-  @apply transition-all duration-700 ease-out;
-}
-
-.animate.show {
-  @apply opacity-100 translate-y-0;
-}
-
 html #back-to-top {
   @apply opacity-0 pointer-events-none;
 }
