@@ -7,6 +7,6 @@ draft: false
 ---
 
 A list of small experiences... with ongoing updates.
-1. [Northern Graveyard](/game-portfolio/2025-12-15_northern-graveyard-introduction.html) (Intro)
-2. [Sunshine](/game-portfolio/2025-12-15_sunshine.html)
-3. [Test of Mettle](2025-12-15_test-of-mettle.html)
+1. [Test of Mettle](/game-portfolio/test-of-mettle.html)
+2. [Sunshine](/game-portfolio/sunshine.html)
+3. [Northern Graveyard](/game-portfolio/northern-graveyard-introduction.html) (Intro)
